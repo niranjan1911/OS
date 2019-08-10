@@ -1,0 +1,107 @@
+<html>
+
+<head>
+	<title>Coldstar</title>
+  <link rel="icon" href="logo1.png" type="image/gif">
+</head>
+<body bgcolor="gray">
+       
+       	<div align="middle">
+        <header>
+			<img height="150vh" width="150vw"  src="logo1.png" >
+           </header>
+		</div>
+
+		<div>
+			<font size="5"><h2 align="middle">Coldstar<h4 align="middle">(watch unlimited movies)</h4></h2></font>
+     
+
+	
+	
+		</div>
+		
+		       <hr>
+
+          <div align="middle" >
+              	
+	         <font size="5" color="#000000">
+	          <a href="movies.html">MOVIES </a>
+	                   &nbsp;|
+              <a href="tv.html">TV SHOWS</a>
+                 &nbsp;|
+               <a href="web.html">WEB SERIES</a>
+                  &nbsp;|
+              <a href="sport.html">SPORTS</a>
+            
+          </font> 
+          </div>
+          	
+	
+       <table bgcolor="#ccc9a3" width="100%" height="" border="1px">
+       		<thead>
+       			<tr>
+       				<th><b>MOVIES</b></th>
+       				<th><b>DESCRIPTION</b></th>
+       			</tr>
+       	   </thead>
+       	   </br>
+       		<tbody>
+       			<tr>
+       				<td align="middle">	   <a href="ms1.html">
+       				<img height="250vh" align="middle" width="200vw"  src="ms.jpg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Video related : M.S.Dhoni</h2></font>
+       				<h3 align="middle">The videos of Ms dhoni</h3>
+       				</td>
+       				
+       			</tr>
+       			<tr>
+       				<td align="middle">	   <a href="ms1.html">
+       				<img height="250vh" align="middle" width="200vw"  src="sachin.jpeg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Video Related: Sachin Tendulkar</h2></font>
+       				<h3 align="middle">The videos of Sachin Tendulkar</h3>
+       				</td>
+       				
+       			</tr>
+       			<tr>
+       				<td align="middle">	  <a href="ms1.html">
+       				 <img height="250vh" align="middle" width="200vw"  src="virat.jpg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Video Related: Virat Kohli</h2></font>
+       				<h3 align="middle">The videos of Virat</h3>
+       				</td>
+       			
+       			</tr>
+       			<tr>
+       				<td align="middle">	   <a href="ms1.html">
+       				<img height="250vh" align="middle" width="200vw"  src="raina.jpeg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Video Related: Suresh Raina</h2></font>
+       				<h3 align="middle">The videos of Raina</h3>
+       				</td>
+       				
+       			</tr>
+       			</br>
+       			<tr>
+       				<td align="middle">	   <a href="ms1.html">
+       				<img height="250vh" align="middle" width="200vw"  src="messi.jpeg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Video Related: Lionel Messi</h2></font>
+       				<h3 align="middle">The videos of Messi</h3>
+       				</td>
+       				
+       			</tr>
+       			</br>
+
+       			<tr>
+       				<td align="middle">	   <a href="ms1.html">
+       				<img height="250vh" align="middle" width="200vw"  src="rojer.jpeg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Video Related: Rojer Federer</h2></font>
+       				<h3 align="middle">The videos of Fedrer</h3>
+       				</td>
+       				
+       			</tr>
+       			</br>
+       		</tbody>
+       </table>
+
+		 <h3 align="middle"><a href="homepage.html">Home</a></h3>
+     
+</body>
+</html>

@@ -1,0 +1,59 @@
+<html>
+
+<head>
+	<title>Coldstar</title>
+  <link rel="icon" href="logo1.png" type="image/gif">
+</head>
+<body bgcolor="#c8c8c8">
+       
+       	<div align="middle">
+        <header>
+			<img height="150vh" width="150vw"  src="logo1.png" >
+           </header>
+		</div>
+
+		<div>
+			<font size="5"><h2 align="middle">Coldstar<h4 align="middle">(watch unlimited movies)</h4></h2></font>
+     
+
+	
+	
+		</div>
+		
+		       <hr>
+
+          <div align="middle" >
+              	
+	         <font size="5" color="#000000">
+	          <a href="movies.html">MOVIES </a>
+	                   &nbsp;|
+              <a href="tv.html">TV SHOWS</a>
+                 &nbsp;|
+               <a href="web.html">WEB SERIES</a>
+                  &nbsp;|
+              <a href="sport.html">SPORTS</a>
+            
+          </font> 
+          </div>
+          	 <hr>
+       <div align="justify">
+            </br>
+             <article>
+             <font size="5" color="gray"><strong><h1 align="middle" >ABOUT US</h1></strong></font>
+
+             <center>
+             <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coldstar is an online video streaming platform owned by </br>Novi Digital Entertainment Private Limited, a wholly owned subsidiary </br>of Star India Private Limited. Coldstar currently offers over</br> 100,000 hours of TV content and movies across </br>9 languages, and every major sport covered live.</h2>
+             </article>
+		</center>
+             <font color="blue"><h1>Start Watching by selecting menu's....!</h1></font>
+             
+         <font color="tomato"><h5>VISIT : www.coldstar.com </h5></font>
+
+        </div>
+
+          
+
+	
+     
+</body>
+</html>

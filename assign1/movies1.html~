@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="black">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<video width="1000" height="600" controls>
+  <source src="dhoni1.mp4" type="video/mp4">
+  <source src="dhoni1.ogg" type="video/ogg">
+</video>
+
+<font size="5"><h3 align="middle"><a href="homepage.html">Home  |</a><a href="movies.html"> Back</a></h3></font>
+</body>
+</html>

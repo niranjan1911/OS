@@ -1,0 +1,99 @@
+<html>
+
+<head>
+	<title>Coldstar</title>
+  <link rel="icon" href="logo1.png" type="image/gif">
+</head>
+<body bgcolor="gray">
+       
+       	<div align="middle">
+        <header>
+			<img height="150vh" width="150vw"  src="logo1.png" >
+           </header>
+		</div>
+
+		<div>
+			<font size="5"><h2 align="middle">Coldstar<h4 align="middle">(watch unlimited movies)</h4></h2></font>
+     
+
+	
+	
+		</div>
+		
+		       <hr>
+
+          <div align="middle" >
+              	
+	         <font size="5" color="#000000">
+	          <a href="movies.html">MOVIES </a>
+	                   &nbsp;|
+              <a href="tv.html">TV SHOWS</a>
+                 &nbsp;|
+               <a href="web.html">WEB SERIES</a>
+                  &nbsp;|
+              <a href="sport.html">SPORTS</a>
+            
+          </font> 
+          </div>
+          	
+	
+       <table bgcolor="#ccc9a3" width="100%" height="" border="1px">
+       		<thead>
+       			<tr>
+       				<th><b>MOVIES</b></th>
+       				<th><b>DESCRIPTION</b></th>
+       			</tr>
+       	   </thead>
+       	   </br>
+       		<tbody>
+       			<tr>
+       				<td align="middle">	   <a href="tv1.html">
+       				<img height="250vh" align="middle" width="200vw"  src="tkss.jpeg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Show Name : The Kapil Sharma Show</h2></font>
+       				<h3 align="middle">Cast : Sushant Singh Rajput, Disha Patani, Kiara Advani</h3>
+       				</td>
+       				
+       			</tr>
+       			<tr>
+       				<td align="middle">	  <a href="tv1.html">
+       				 <img height="250vh" align="middle" width="200vw"  src="tkwk.jpeg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Show Name : Kofee With Karan</h2></font>
+       				<h3 align="middle">Cast:Shahid Kapoor, Kiara Advani</h3>
+       				</td>
+       			
+       			</tr>
+       			<tr>
+       				<td align="middle">	   <a href="tv1.html">
+       				<img height="250vh" align="middle" width="200vw"  src="varis.jpeg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Show Name : Varas</h2></font>
+       				<h3 align="middle">Cast : Salman Khan, katrina Kaif</h3>
+       				</td>
+       				
+       			</tr>
+       			</br>
+       			<tr>
+       				<td align="middle">	   <a href="tv1.html">
+       				<img height="250vh" align="middle" width="200vw"  src="porus.jpeg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Show Name : Porus</h2></font>
+       				<h3 align="middle">Cast : Farhan Akhtar, Sonam Kapoor</h3>
+       				</td>
+       				
+       			</tr>
+       			</br>
+
+       			<tr>
+       				<td align="middle">	   <a href="tv1.html">
+       				<img height="250vh" align="middle" width="200vw"  src="tiger.jpeg" ></td></a>
+       				<td><font color="Black" ><h2 align="middle">Show Name : Tiger</h2></font>
+       				<h3 align="middle">Cast : Salman khan, Anushaka Sharma</h3>
+       				</td>
+       				
+       			</tr>
+       			</br>
+       		</tbody>
+       </table>
+
+		 <h3 align="middle"><a href="homepage.html">Home</a></h3>
+     
+</body>
+</html>
