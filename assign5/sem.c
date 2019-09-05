@@ -2,7 +2,8 @@
 
 
 
-//https://www.geeksforgeeks.org/readers-writers-problem-set-1-introduction-and-readers-preference-solution/
+//Reader writer problem
+
 
 
 
